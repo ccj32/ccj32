@@ -1,12 +1,14 @@
 body{
     background-color: black;
-    padding: 2px
 }
-
+header{
+    padding: 15x;
+    text-align: center;
+    color: white;
+}
 div{
-    border: solid red;
+    border: 1px solid red;
 }
 div.Titulo{
-    background-color: white;
     text-align: right;
 }
