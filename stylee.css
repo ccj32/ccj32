@@ -10,7 +10,9 @@ div{
     box-shadow:0 0 10px 5px rgb(192, 183, 142); ;
 }
 div.Titulo{
-    text-align: right;
+    text-align: center;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif
 }
 .Contenedor{
     display: flex;
