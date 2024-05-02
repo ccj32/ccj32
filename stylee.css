@@ -24,11 +24,22 @@ div.Titulo{
     flex: 2;
     margin-left: 200px;
     margin-right: 200px;
+    padding: 20px;
 }
 p{
     color: white;
     text-align: justify;
 }
+a {
+    color: blue;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(156, 65, 156);
+  }
+  a:hover {
+    color: darkblue;
+  }
 ol{
     color: white;
 }
