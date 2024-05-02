@@ -40,10 +40,9 @@ a {
   a:hover {
     color: darkblue;
   }
-ol{
+
+ol,ul {
+    display: inline-block;
+    vertical-align: top;
     color: white;
-}
-ul{
-    color: white;
-}
-  
+  }
