@@ -7,7 +7,7 @@ header{
     color: white;
 }
 div{
-    border: 1px solid red;
+    box-shadow:0 0 10px 5px rgb(181, 176, 150); ;
 }
 div.Titulo{
     text-align: right;
