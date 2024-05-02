@@ -27,8 +27,8 @@ div.Titulo{
 }
 p{
     color: white;
+    text-align: justify;
 }
 ol{
     color: white;
-    left: 10px;
 }
