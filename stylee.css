@@ -12,3 +12,14 @@ div{
 div.Titulo{
     text-align: right;
 }
+.Contenedor{
+    display: flex;
+    align-items: center;
+}
+.Imagen{
+    flex: 1;
+    margin-right: 20px;
+}
+.Iformacion{
+    flex: 2;
+}
