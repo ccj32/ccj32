@@ -7,7 +7,7 @@ header{
     color: white;
 }
 div{
-    box-shadow:0 0 10px 5px rgb(181, 176, 150); ;
+    box-shadow:0 0 10px 5px rgb(192, 183, 142); ;
 }
 div.Titulo{
     text-align: right;
@@ -43,3 +43,7 @@ a {
 ol{
     color: white;
 }
+ul{
+    color: white;
+}
+  
