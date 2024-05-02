@@ -22,4 +22,13 @@ div.Titulo{
 }
 .Iformacion{
     flex: 2;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+p{
+    color: white;
+}
+ol{
+    color: white;
+    left: 10px;
 }
