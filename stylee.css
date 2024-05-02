@@ -18,13 +18,14 @@ div.Titulo{
 }
 .Imagen{
     flex: 1;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 .Iformacion{
     flex: 2;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin:100px;
     padding: 20px;
+    max-width: 210;
+
 }
 p{
     color: white;
